@@ -1,0 +1,14 @@
+BANKING PHISHING
+Dear customer, your bank account will be suspended today because KYC has expired. Verify your account immediately at http://secure-bank-login.example.test and enter your OTP to continue.
+
+FAKE JOB
+Congratulations! You are selected for a work from home job with salary Rs. 55,000. Pay a registration fee of Rs. 2,499 today and send your Aadhaar and bank details to confirm your position.
+
+UPI SCAM
+Your refund is ready. Scan this QR code and enter your UPI PIN to receive Rs. 4,999 immediately.
+
+SAFE MESSAGE
+Reminder: your project meeting is tomorrow at 10:30 AM in Seminar Hall 2. Please bring the printed report.
+
+SUSPICIOUS URL
+http://secure-bank-login-verify.example.test/account

@@ -1,0 +1,30 @@
+TRUSTSHIELD - QUICK START (Windows)
+==================================
+
+1) Open TWO terminals inside the TrustShield folder.
+
+TERMINAL 1 - BACKEND
+--------------------
+cd backend
+python -m pip install -r requirements.txt
+python -m uvicorn main:app --reload
+
+Backend should run at:
+http://127.0.0.1:8000
+API docs:
+http://127.0.0.1:8000/docs
+
+TERMINAL 2 - FRONTEND
+---------------------
+cd frontend
+npm install
+npm run dev
+
+Open in browser:
+http://127.0.0.1:5173
+
+BEST DEMO:
+Analyze -> Quick demo -> Banking Phishing -> Analyze with TrustShield
+
+Screenshot OCR requires Tesseract OCR installed on the computer.
+If it is not installed, URL and Message analysis still work fully.
